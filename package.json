@@ -1,0 +1,17 @@
+{
+  "name": "enccrv_srv",
+  "version": "1.0.0",
+  "description": "Sitio Web ENCCRV-CHILE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whoooorse - La Fabrica",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "yargs": "^12.0.5"
+  }
+}
